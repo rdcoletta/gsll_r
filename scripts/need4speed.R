@@ -1,5 +1,5 @@
 # load this file with genotypic information
-markers <- read.table("data/markers_genotypes.txt", header = TRUE, sep = "\t")
+markers <- read.table("gsll_r-master/data/markers_genotypes.txt", header = TRUE, sep = "\t")
 
 # this file only contain markers with AA, AT or TT genotypes
 # any missing data is coded as NN

@@ -1,7 +1,7 @@
 #### extra help ----
 
 # run following line for extra help I wrote for you
-source("scripts/extra_help.R")
+source("gsll_r-master/scripts/extra_help.R")
 
 
 
