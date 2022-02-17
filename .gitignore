@@ -3,3 +3,4 @@
 *.Rhistory
 *.Rproj
 presentation/*
+scripts/*_solution.R
